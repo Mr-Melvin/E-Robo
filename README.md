@@ -5,11 +5,11 @@ By utilizing transfer learning we adapt the pre-trained VGG16 architecture to ou
 Streamlit enables easy interactions with the model,allowing users to upload images and visualize the classification results in real-time.
 
 # How it works:
-Step1 : Homepage.
+Step 1 : Homepage.
 <img width="1496" alt="scrn1" src="https://github.com/user-attachments/assets/8dfc925a-3b3f-46a7-ba7a-9dad9a6281d4">
 
-Step2 : Uploading elephant images. Here we can upload any number of elephant images.
+Step 2 : Uploading elephant images. Here we can upload any number of elephant images.
 <img width="1496" alt="scrn2" src="https://github.com/user-attachments/assets/28edde20-6810-4154-9c18-b696336be357">
 
-Step3 : This page shows the results of uploaded elephant images.
+Step 3 : This page shows the results of uploaded elephant images.
 <img width="1496" alt="scrn3" src="https://github.com/user-attachments/assets/35ca9bcc-5814-4715-bb36-de7ba7f7c878">
