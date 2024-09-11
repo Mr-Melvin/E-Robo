@@ -2,6 +2,7 @@
 The aim of this project is to develop an accurate and efficient image-based classification system to identify whether a given elephant image is of an African or Asian elephant.
 In this project, we present a Convolutional Neural Network (CNN) model leveraging transfer learning with VGG16 to predict whether a given elephant image is African or Asian. 
 By utilizing transfer learning we adapt the pre-trained VGG16 architecture to our specific classification task,achieving robust performance with mminimal training data. 
+Streamlit enables easy interactions with the model,allowing users to upload images and visualize the classification results in real-time.
 
 # How it works:
 Step1 : Homepage.
